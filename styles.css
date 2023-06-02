@@ -4,8 +4,11 @@
 	padding:10px;
 	display:flex;
 }
+ul{
+	display:flex;
+}
 .items{
 	display:inline;
-	margin-right:1rem;
+	margin-right:16px;
 	list-style:none;
 }
