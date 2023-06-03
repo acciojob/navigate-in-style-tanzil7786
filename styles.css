@@ -1,14 +1,15 @@
 /*  your css code here. If applicable */
 .container{
 	background-color:#D3D3D3;
-	padding:10px;
-	display:flex;
-}
-ul{
-	display:flex;
+	padding:10px;	
 }
 .items{
+	display:flex;
+}
+li{
 	display:inline;
+	padding:10px;
 	margin-right:16px;
+	color:indigo;
 	list-style:none;
 }
